@@ -1,1 +1,1 @@
-changes the current directory to the uer's home directory
+display current directory content in long format
