@@ -1,1 +1,1 @@
-display content with hidden fils
+list content in current directories
