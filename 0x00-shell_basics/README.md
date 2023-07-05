@@ -1,1 +1,1 @@
-display content list of your current directory
+changes the current directory to the uer's home directory
