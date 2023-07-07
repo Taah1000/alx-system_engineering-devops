@@ -1,1 +1,1 @@
-dekete directory
+script writing
