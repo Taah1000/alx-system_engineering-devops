@@ -1,1 +1,1 @@
-move files
+deleete working file in dir
