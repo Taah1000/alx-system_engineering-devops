@@ -1,1 +1,1 @@
-change directories
+dekete directory
