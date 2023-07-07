@@ -1,1 +1,1 @@
-creat file
+symbolic link
