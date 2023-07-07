@@ -1,1 +1,1 @@
-dirs
+list all files with comma
