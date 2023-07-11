@@ -1,1 +1,1 @@
-0x03. Shell, init files, variables and expansions
+a script that counts the number of directories in the PATH
